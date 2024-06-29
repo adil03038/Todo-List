@@ -1,7 +1,7 @@
 {
   "homepage": "https://adil03038.github.io/Todo-List",
   "name": "9---todolist-app-using-react--tailwind-and-react-icons",
-  "private": false,
+  "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
